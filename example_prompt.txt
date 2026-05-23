@@ -1,0 +1,23 @@
+[EXAMPLE PROMPT - Marcus Chen Style]
+[Platform-agnostic principles - adapt syntax to your music AI]
+
+Genre: Lo-fi indie folk
+Tempo: 78 BPM (exact)
+Instrumentation: Acoustic guitar (lead melodic voice), vinyl crackle sample (textural atmosphere layer), upright bass (sub-frequency foundation), brush drums (gentle rhythmic backbone), ambient synth pad (atmospheric spatial fill)
+Emotional Character: Melancholy 9/10, Energy 2/10, Nostalgia 10/10
+Technical Parameters: Reverb wet signal 40%, Low-pass filter 7000Hz, Stereo field width 55%, Tape saturation moderate level, Compression ratio 3:1 gentle
+Structural Definition: Introduction 8 bars (guitar solo with crackle texture), Verse section 16 bars (full arrangement), Chorus section 12 bars, Bridge 8 bars (bass feature prominent), Verse reprise 16 bars, Chorus final 12 bars, Outro 16 bars (gradual fade with vinyl crackle emphasis)
+
+Lyrical Theme: Fading memories preserved in analog media, beauty found in imperfection, bittersweet nostalgia for lost moments
+Vocal Approach: Intimate delivery, slightly breathy character, conversational phrasing
+Production Aesthetic: Intentionally lo-fi quality, warm analog character, subtle imperfections welcomed as artistic choice
+
+---
+NOTE: Above uses standard music production terminology. When using on specific platforms:
+- Suno: Adapt to their tag format while keeping exact numbers
+- Udio: Use their prompt structure with same precision principles  
+- MusicGen: Translate to their parameter names (duration, temperature, etc.)
+- Stable Audio: Format per their requirements
+
+Marcus's signature = METHODOLOGY (exact values, role specification, technical vocabulary)
+NOT rigid syntax that only works on one platform
